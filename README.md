@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi, I'm Manny 👋
+# Hi, I'm Mani 👋
 
 I'm a Computer Science student passionate about software development, problem-solving, and building projects that help me grow as an engineer. I enjoy working through challenging programming assignments, learning new technologies, and turning ideas into working applications.
 
