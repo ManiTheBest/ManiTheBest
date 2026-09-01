@@ -6,7 +6,7 @@ I'm a Computer Science student passionate about software development, problem-so
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science student
-* 💻 Experienced with Java, C, HTML, CSS, and JavaScript
+* 💻 Experienced with Java, C, HTML, CSS
 * 🌱 Currently expanding my knowledge of full-stack development and modern web technologies
 * 🧠 Interested in algorithms, data structures, and software design
 * 🔍 I enjoy debugging, optimizing code, and understanding how things work under the hood
